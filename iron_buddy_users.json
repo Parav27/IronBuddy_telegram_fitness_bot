@@ -1,0 +1,59 @@
+{
+  "1054473493": {
+    "name": "Pa",
+    "stats": {
+      "weight": 105.0,
+      "experience": "beginner"
+    },
+    "goals": [
+      "cut"
+    ],
+    "current_maxes": {
+      "squat": 120.0,
+      "bench": 0,
+      "deadlift": 0,
+      "ohp": 0
+    },
+    "current_program": {
+      "type": "ppl",
+      "week": 1,
+      "block": "hypertrophy"
+    },
+    "workout_history": [
+      {
+        "date": "2025-08-23T15:17:09.175137",
+        "exercise": "Bench Press",
+        "weight": 80.0,
+        "reps": 2,
+        "rpe": 10,
+        "estimated_1rm": 85.3
+      },
+      {
+        "date": "2025-08-23T16:14:51.182628",
+        "exercise": "Squat",
+        "weight": 100.0,
+        "reps": 3,
+        "rpe": 9,
+        "estimated_1rm": 113.3
+      },
+      {
+        "date": "2025-08-23T16:20:32.976018",
+        "exercise": "Bench Press",
+        "weight": 85.0,
+        "reps": 3,
+        "rpe": 9,
+        "estimated_1rm": 96.3
+      },
+      {
+        "date": "2025-08-23T16:34:03.740083",
+        "exercise": "Bench Press",
+        "weight": 85.0,
+        "reps": 3,
+        "rpe": 9,
+        "estimated_1rm": 96.3
+      }
+    ],
+    "recovery_data": [],
+    "created_date": "2025-08-23T15:13:21.217849"
+  }
+}
